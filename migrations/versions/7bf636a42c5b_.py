@@ -74,4 +74,4 @@ def downgrade():
     op.drop_table('users')
     op.drop_table('types')
     op.drop_table('subjects')
-    # ### end Alembic commands ###
+# ### end Alembic commands ###

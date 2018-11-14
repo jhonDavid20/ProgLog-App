@@ -1,6 +1,6 @@
 # Environment
-venv/**
+env/
 **/__pycache__
-
+.vscode/
 # Configuration
 app/settings.py
